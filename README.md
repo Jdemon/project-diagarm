@@ -2,5 +2,5 @@
 
 ## Application Architecture
 
-<img src="/Web%20Applicaiton.png" />
+<img src="Web%20Application.png" />
 
